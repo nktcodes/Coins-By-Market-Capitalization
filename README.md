@@ -19,4 +19,5 @@ This dataset is from the CoinGecko API. Please refer to their terms and conditio
 
 The dataset is composed of the following cryptocurrencies:   
 
+* algorand
 
