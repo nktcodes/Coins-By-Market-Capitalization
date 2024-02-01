@@ -1,7 +1,7 @@
 # Dataset Facts
 
 This dataset is for the cryptocurrency **algorand**.    
-This dataset looks at the _Price_, _Total Volume_ and _Market Cap_.   
+This dataset looks at the _Price_, _Total Volume_ and _Market Cap_.      
 
 # Dataset Format  
 
