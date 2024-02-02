@@ -21,4 +21,5 @@ The dataset is composed of the following cryptocurrencies:
 
 * algorand
 * apecoin
+* axie-infinity
 
