@@ -23,4 +23,5 @@ The dataset is composed of the following cryptocurrencies:
 * apecoin
 * axie-infinity
 * avalanche
+* bnb
 
