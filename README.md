@@ -25,4 +25,5 @@ The dataset is composed of the following cryptocurrencies:
 * avalanche
 * bnb
 * busd
+* bitcoin
 
