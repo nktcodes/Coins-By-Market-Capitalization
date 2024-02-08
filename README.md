@@ -27,4 +27,5 @@ The dataset is composed of the following cryptocurrencies:
 * busd
 * bitcoin
 * bitcoin-cash
+* cardano
 
