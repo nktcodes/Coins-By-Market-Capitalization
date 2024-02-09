@@ -28,4 +28,5 @@ The dataset is composed of the following cryptocurrencies:
 * bitcoin
 * bitcoin-cash
 * cardano
+* chainlink
 
