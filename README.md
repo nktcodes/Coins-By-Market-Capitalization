@@ -32,4 +32,5 @@ The dataset is composed of the following cryptocurrencies:
 * chiliz
 * cosmos
 * dai
+* decentraland
 
