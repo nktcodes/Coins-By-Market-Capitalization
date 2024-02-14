@@ -33,4 +33,5 @@ The dataset is composed of the following cryptocurrencies:
 * cosmos
 * dai
 * decentraland
+* dogecoin
 
