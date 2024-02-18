@@ -36,5 +36,6 @@ The dataset is composed of the following cryptocurrencies:
 * dogecoin
 * eos
 * ethereum
-* ethereum classic
+* ethereum-classic
+* filecoin
 
