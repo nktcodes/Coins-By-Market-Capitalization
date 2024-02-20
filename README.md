@@ -39,4 +39,5 @@ The dataset is composed of the following cryptocurrencies:
 * ethereum-classic
 * filecoin
 * flow
+* frax
 
