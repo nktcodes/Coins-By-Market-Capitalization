@@ -41,4 +41,5 @@ The dataset is composed of the following cryptocurrencies:
 * flow
 * frax
 * ftx-token
+* hedera-hashgraph
 
