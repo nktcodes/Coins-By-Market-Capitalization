@@ -43,4 +43,5 @@ The dataset is composed of the following cryptocurrencies:
 * ftx-token
 * hedera-hashgraph
 * internet-computer
+* leo-token
 
