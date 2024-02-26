@@ -45,4 +45,5 @@ The dataset is composed of the following cryptocurrencies:
 * internet-computer
 * leo-token
 * lido-dao
+* litecoin
 
