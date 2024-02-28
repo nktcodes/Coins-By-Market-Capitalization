@@ -47,4 +47,5 @@ The dataset is composed of the following cryptocurrencies:
 * lido-dao
 * litecoin
 * matic-network
+* monero
 
