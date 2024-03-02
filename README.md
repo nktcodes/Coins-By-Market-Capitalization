@@ -50,4 +50,5 @@ The dataset is composed of the following cryptocurrencies:
 * monero
 * near
 * okb
+* polkadot
 
