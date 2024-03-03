@@ -51,4 +51,5 @@ The dataset is composed of the following cryptocurrencies:
 * near
 * okb
 * polkadot
+* quant-network
 
