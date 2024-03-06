@@ -54,4 +54,5 @@ The dataset is composed of the following cryptocurrencies:
 * quant-network
 * ripple
 * shiba-inu
+* solana
 
