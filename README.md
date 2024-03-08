@@ -56,4 +56,5 @@ The dataset is composed of the following cryptocurrencies:
 * shiba-inu
 * solana
 * staked-ether
+* stellar
 
