@@ -57,4 +57,5 @@ The dataset is composed of the following cryptocurrencies:
 * solana
 * staked-ether
 * stellar
+* terra-luna
 
