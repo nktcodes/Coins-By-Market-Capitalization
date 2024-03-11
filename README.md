@@ -59,4 +59,5 @@ The dataset is composed of the following cryptocurrencies:
 * stellar
 * terra-luna
 * tether
+* tezos
 
