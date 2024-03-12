@@ -60,4 +60,5 @@ The dataset is composed of the following cryptocurrencies:
 * terra-luna
 * tether
 * tezos
+* the-sandbox
 
