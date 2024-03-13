@@ -61,4 +61,5 @@ The dataset is composed of the following cryptocurrencies:
 * tether
 * tezos
 * the-sandbox
+* theta-token
 
