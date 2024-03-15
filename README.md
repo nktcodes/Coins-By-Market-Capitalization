@@ -63,4 +63,5 @@ The dataset is composed of the following cryptocurrencies:
 * the-sandbox
 * theta-token
 * tron
+* uniswap
 
