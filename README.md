@@ -65,4 +65,5 @@ The dataset is composed of the following cryptocurrencies:
 * tron
 * uniswap
 * usd-coin
+* vechain
 
